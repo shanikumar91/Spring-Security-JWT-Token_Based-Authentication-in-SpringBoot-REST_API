@@ -29,7 +29,7 @@ public class ProductsListApplication {
 
 	public static void main(String[] args) {
         SpringApplication.run(ProductsListApplication.class, args);
-        System.out.println("Hare krishna hare  Krishna");
+        System.out.println("Hare krishna hare Ram Krishna");
 	}
 
 }
